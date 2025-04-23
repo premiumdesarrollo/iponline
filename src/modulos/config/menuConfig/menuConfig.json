@@ -1,0 +1,37 @@
+[
+    {
+        "tienda": {
+            "title": "Tienda",
+            "subtitle": "Mas de x productos",
+            "iconos": ["lupa", "filtro", "download", "flechaIzq", "carrito", "opciones"],
+            "type": "tienda"
+          },
+          "espera": {
+            "title": "Espera",
+            "subtitle": "x productos",
+            "iconos": ["lupa", "filtro", "download", "flechaIzq", "carrito", "opciones"],
+            "type": "espera"
+          },
+          "historial": {
+            "title": "Historial",
+            "subtitle": "Pedidos",
+            "iconos": ["lupa", "filtro", "download", "flechaIzq", "carrito", "opciones"],
+            "type": "historial"
+          },
+          "inicio": {
+            "title": "Inicio",
+            "subtitle": "Bienvenido",
+            "iconos": ["lupa", "filtro", "download", "flechaIzq", "carrito", "opciones"],
+            "type": "inicio"
+          },
+          "cartera": {
+            "title": "Cartera",
+            "subtitle": "x productos",
+            "iconos": ["lupa", "filtro", "download", "flechaIzq", "carrito", "opciones"],
+            "type": "cartera"
+          }
+
+          
+    }
+    
+]

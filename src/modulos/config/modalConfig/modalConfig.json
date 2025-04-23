@@ -1,0 +1,74 @@
+[
+    {
+        "carrito": {
+            "title": "Carrito",
+            "subtitle": "Productos seleccionados",
+            "iconos": ["lupa", "filtro", "download", "flechaIzq", "carrito", "opciones"],
+            "type": "carrito",
+            "buscador": true,
+            "doubleHeader": true,
+            "footer": true,
+            "return": 1
+        },
+        "opciones": {
+            "title": "Opciones",
+            "subtitle": "",
+            "iconos": ["none", "none", "none", "flechaIzq", "none", "opciones"],
+            "type": "opciones",
+            "buscador": false,
+            "doubleHeader": false,
+            "footer": false,
+            "return": 1
+        },
+        "finalizar": {
+            "title": "Finalizar Compra",
+            "subtitle": "",
+            "iconos": ["lupa", "none", "none", "flechaIzq", "none", "none"],
+            "type": "finalizar",
+            "buscador": false,
+            "doubleHeader": false,
+            "footer": false,
+            "return": 1
+        },
+        "direcciones": {
+            "title": "Seleccionar direccion de entrega",
+            "subtitle": "",
+            "iconos": ["lupa", "none", "none", "flechaIzq", "none", "none"],
+            "type": "direcciones",
+            "buscador": false,
+            "doubleHeader": false,
+            "footer": false,
+            "return": 1
+        },
+        "ubicacion": {
+            "title": "Seleccionar direccion de entrega",
+            "subtitle": "",
+            "iconos": ["lupa", "none", "none", "flechaIzq", "none", "none"],
+            "type": "ubicacion",
+            "buscador": false,
+            "doubleHeader": false,
+            "footer": false,
+            "return": 1
+        },
+        "nuevaUbi": {
+            "title": "Nueva ubicacion",
+            "subtitle": "",
+            "iconos": ["lupa", "none", "none", "flechaIzq", "none", "none"],
+            "type": "nuevaUbi",
+            "buscador": false,
+            "doubleHeader": false,
+            "footer": false,
+            "return": 2
+        },
+        "transferencia":{
+            "title": "Realizar pago",
+            "subtitle": "Transferencia",
+            "iconos": ["none", "none", "none", "flechaIzq", "none", "none"],
+            "type": "transferencia",
+            "buscador": true,
+            "doubleHeader": true,
+            "footer": false,
+            "return": 1
+        }
+    }
+]
