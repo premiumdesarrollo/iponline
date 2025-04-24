@@ -18,7 +18,7 @@ export default function Plantilla({isOpen,email,password}: {isOpen:boolean,email
               <Route path="/tienda" element={<PlantillaTienda email={email} password={password} />}>
                 <Route path="inicio" element={ContentRutas({type:"inicio"})} />
                 <Route path="/tienda" element={ContentRutas({type: "tienda"})} />
-                <Route path="espera" element={ContentRutas({ type: "espera" })} />
+                <Route path="/espera" element={ContentRutas({ type: "espera" })} />
                 <Route path="cartera" element={ContentRutas({type:"cartera"})} />
                 <Route path="historial" element={ContentRutas({type:"historial"})} />
               </Route>
